@@ -2,7 +2,7 @@
 
 **Version**: 2.1 (Global Framework Harmonization)
 **Last Updated**: 2026-01-04
-**License**: CC BY 4.0
+**License**: Apache 2.0, CC BY 4.0
 
 ---
 
@@ -1884,7 +1884,7 @@ Net Risk Reduction: Legal/reputational protection, may reduce retroactive penalt
 **Related**:
 - [Playbook 1 — Impact Value Factors](PLAYBOOK_1_IMPACT_VALUE_FACTORS.md)
 - [Playbook 2 — Exposure Factors](PLAYBOOK_2_EXPOSURE_FACTORS.md)
-- [Playbook 3 — Vulnerability & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
+- [Playbook 3 — Vulnerability Factors & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
 - [Playbook 4 — Governance & Risk Management](PLAYBOOK_4_GOVERNANCE_RISK_MANAGEMENT.md)
 - [Playbook 5 — Portfolio Attribution](PLAYBOOK_5_PORTFOLIO_ATTRIBUTION.md)
 

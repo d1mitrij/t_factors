@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: CC BY 4.0
+**License**: Apache 2.0, CC BY 4.0
 
 ---
 
@@ -1677,7 +1677,7 @@ NPV (Full Horizon, 2025-2055) = $800M (early) - [$48B / (1.33)^30]
 **Related**:
 - [Playbook 1 — Impact Value Factors](PLAYBOOK_1_IMPACT_VALUE_FACTORS.md)
 - [Playbook 2 — Exposure Factors](PLAYBOOK_2_EXPOSURE_FACTORS.md)
-- [Playbook 3 — Vulnerability & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
+- [Playbook 3 — Vulnerability Factors & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
 
 ---
 
