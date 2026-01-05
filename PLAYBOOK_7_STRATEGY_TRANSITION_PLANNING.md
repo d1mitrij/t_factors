@@ -2,7 +2,7 @@
 
 **Version**: 2.1 (Global Framework Harmonization)
 **Last Updated**: 2026-01-04
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -1902,7 +1902,7 @@ Net Risk Reduction: Legal/reputational protection, may reduce retroactive penalt
 - Science-based transition plan examples with explicit GBF alignment
 - Strategic workflow integrating GBF, TNFD, and ENCORE
 
-**Contact**: dimitrij.euler@greenings.org
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)
 
 **Key References (PART I)**:
 - **GBF** (2022). Kunming-Montreal Global Biodiversity Framework. https://www.cbd.int/gbf

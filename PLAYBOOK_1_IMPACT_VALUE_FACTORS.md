@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -270,14 +270,6 @@ Where:
 - **File**: `t_factors/datasource/uba_air_pollution_costs.csv`
 - **Geographic adjustment**: World Bank GDP per capita (PPP)
 
-### Datasource Workflow
-
-1. Edit: `t_factors/datasource/uba_air_pollution_costs.csv`
-2. Modify: `Total_eur_per_tonne` column
-3. Run: `python3 008_241001_prepare_AirPollution_my.py`
-
-See: `DATASOURCE_WORKFLOW_GUIDE.md` Section 1
-
 ### References
 
 - UBA (2020). Methodological Convention 3.1 for the Determination of Environmental Costs.
@@ -360,15 +352,6 @@ Where:
 - **AWARE Factors**: WULCA (Water Use in LCA) database, Boulay et al. (2018)
 - **File**: `t_factors/datasource/AWARE20_Countries_and_Regions.xlsx`
 - **Sheet**: `CFs_unspecified` (unspecified water use)
-
-### Datasource Workflow
-
-1. Edit: `t_factors/datasource/AWARE20_Countries_and_Regions.xlsx`
-2. Sheet: `CFs_unspecified`
-3. Modify: `Annual` column (AWARE factors by `GLAM_ISO3` country code)
-4. Run: `python3 009_241001_prepare_WaterConsumption_my.py`
-
-See: `DATASOURCE_WORKFLOW_GUIDE.md` Section 2, `06_PLAYBOOK_WATER_CONSUMPTION.md`
 
 ### References
 
@@ -976,8 +959,6 @@ Values: IVF (monetary units as specified per indicator)
 
 **Storage**: HDF5 compressed format (~50 MB per matrix)
 
-See: `09_MATRIX_STRUCTURE_SPECIFICATION.md`
-
 ---
 
 ## Data Sources & Hierarchy
@@ -1004,8 +985,6 @@ See: `09_MATRIX_STRUCTURE_SPECIFICATION.md`
 
 - **Backward-Looking**: Annual updates (as new data becomes available)
 - **Forward-Looking**: Scenario refresh every 3-5 years (aligned to IPCC/NGFS cycles)
-
-See: `10_DATABASE_AND_INPUT_FILES_GUIDE.md`
 
 ---
 
@@ -1586,12 +1565,6 @@ Delta = IVF[SSP5] - IVF[SSP1]
 - [Playbook 4 — Governance & Risk Management](PLAYBOOK_4_GOVERNANCE_RISK_MANAGEMENT.md)
 - [Playbook 5 — Portfolio Attribution](PLAYBOOK_5_PORTFOLIO_ATTRIBUTION.md)
 
-**Technical Appendices**:
-- [Matrix Structure Specification](09_MATRIX_STRUCTURE_SPECIFICATION.md)
-- [Database & Input Files Guide](10_DATABASE_AND_INPUT_FILES_GUIDE.md)
-- [Input File Standardization Guide](11_INPUT_FILE_STANDARDIZATION_GUIDE.md)
-- [Datasource Workflow Guide](DATASOURCE_WORKFLOW_GUIDE.md)
-
 **Legacy Indicator Playbooks** (Archived):
 - [01_PLAYBOOK_GHG_EMISSIONS.md](01_PLAYBOOK_GHG_EMISSIONS.md)
 - [02_PLAYBOOK_AIR_POLLUTION.md](02_PLAYBOOK_AIR_POLLUTION.md)
@@ -1607,5 +1580,4 @@ Delta = IVF[SSP5] - IVF[SSP1]
 **Last Updated**: 2026-01-03
 **Next Review**: 2026-07-03
 
-**Contact**: dimitrij.euler@greenings.org
-**Repository**: https://github.com/Greenings/transitionvaluation
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)

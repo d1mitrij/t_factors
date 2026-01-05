@@ -2,7 +2,7 @@
 
 **Version**: 2.1 (Enhanced Data Sources)
 **Last Updated**: 2026-01-04
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -1660,5 +1660,4 @@ Impact[Asset, Indicator, Year, SSP] = Exposure[Asset, Indicator, Year, SSP] × I
 - Enhanced data portals appendix with 13+ regional databases
 - Risk exposure proxies for social indicators (ILAB, KnowTheChain)
 
-**Contact**: dimitrij.euler@greenings.org
-**Repository**: https://github.com/Greenings/transitionvaluation
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)

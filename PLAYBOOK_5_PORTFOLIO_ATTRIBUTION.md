@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -475,4 +475,4 @@ Top 10 Contributors: 65% of total impact
 **Document Version**: 2.0
 **Last Updated**: 2026-01-03
 
-**Contact**: dimitrij.euler@greenings.org
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)

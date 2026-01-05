@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -1684,4 +1684,4 @@ NPV (Full Horizon, 2025-2055) = $800M (early) - [$48B / (1.33)^30]
 **Document Version**: 2.0
 **Last Updated**: 2026-01-03
 
-**Contact**: dimitrij.euler@greenings.org
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)

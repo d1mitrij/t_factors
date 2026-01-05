@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: Apache 2.0, CC BY 4.0
+**License**: Apache 2.0
 
 ---
 
@@ -358,4 +358,4 @@ Embed Playbooks 1–3 into enterprise risk management and internal control. Play
 **Document Version**: 2.0
 **Last Updated**: 2026-01-03
 
-**Contact**: dimitrij.euler@greenings.org
+**Author**: Dimitrij Euler (https://github.com/d1mitrij/t_factors)
