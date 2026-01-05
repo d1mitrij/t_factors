@@ -1,4 +1,4 @@
-# Transition Factors (T-Factors) - Integrated Impact Framework
+# Transition Factors (T-Factors) - Integrated Impact Approach
 
 **Version**: 2.1 (Comprehensive 7-Playbook Structure)
 **Last Updated**: 2026-01-04
