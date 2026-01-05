@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: CC BY 4.0
+**License**: Apache 2.0, CC BY 4.0
 
 ---
 
@@ -463,10 +463,12 @@ Top 10 Contributors: 65% of total impact
 ## Document Navigation
 
 **Previous**: [Playbook 4 — Governance & Risk Management](PLAYBOOK_4_GOVERNANCE_RISK_MANAGEMENT.md)
+**Next**: [Playbook 6 — Finance Integration & Transition Internalization](PLAYBOOK_6_FINANCE_INTEGRATION.md)
+
 **Related**: 
 - [Playbook 1 — Impact Value Factors](PLAYBOOK_1_IMPACT_VALUE_FACTORS.md)
 - [Playbook 2 — Exposure Factors](PLAYBOOK_2_EXPOSURE_FACTORS.md)
-- [Playbook 3 — Vulnerability & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
+- [Playbook 3 — Vulnerability Factors & Scenarios](PLAYBOOK_3_VULNERABILITY_SCENARIOS.md)
 
 ---
 

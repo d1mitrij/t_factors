@@ -2,7 +2,7 @@
 
 **Version**: 2.0 (Integrated Framework)
 **Last Updated**: 2026-01-03
-**License**: CC BY 4.0
+**License**: Apache 2.0, CC BY 4.0
 
 ---
 
